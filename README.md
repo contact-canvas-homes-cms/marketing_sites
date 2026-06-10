@@ -1,7 +1,8 @@
 # marketing_sites
 ```
 repo (branch: main)
-├── .github/workflows/deploy.yml        ← ONE workflow, committed once by you
+├── .github/workflows/deploy.yml
+├── .firebaserc       ← ONE workflow, committed once by you
 ├── godrej_developers_godrej_sarjapur/
 │   ├── firebase.json                   ← says which SITE this folder is
 │   ├── index.html, privacy, terms...
