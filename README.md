@@ -1,5 +1,5 @@
 # marketing_sites
-
+```
 repo (branch: main)
 ├── .github/workflows/deploy.yml        ← ONE workflow, committed once by you
 ├── godrej_developers_godrej_sarjapur/
@@ -11,3 +11,4 @@ repo (branch: main)
 └── sobha_hsr/
     ├── firebase.json
     └── ...
+```
